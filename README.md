@@ -1,3 +1,9 @@
+## Install:
+
+```sh
+make install
+```
+
 ## Run Demo:
 Open two consoles:
 
